@@ -1,2 +1,2 @@
 # AudioFilter_ReadySampling_SoundGenerator
-This repository contains a python code that has a C++ wrapper that sums the inputs of an array, but they must have spaces between the numbers not commas.
+This repository contains a python code that can upload a .csv file, add a filter to it, plot it using Pyqtgraph in a PyQt5 GUI, show sampling examples for sine, cosine and exponential waveforms, has a C++ wrapper that sums the inputs of an array, but they must have spaces between the numbers, not commas and has an audio generator as a result of sine and exponential waveforms.
